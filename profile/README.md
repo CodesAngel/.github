@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=CodesAngel&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Code%20with%20purpose.%20Build%20with%20heart.&descAlignY=60&descSize=20&animation=fadeIn" alt="CodesAngel banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0EA5E9&height=150&section=header&text=CodesAngel&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Code%20with%20purpose.%20Build%20with%20heart.&descAlignY=58&descSize=16" alt="CodesAngel banner" width="100%" />
 </p>
 
 <p align="center">
@@ -141,7 +141,7 @@ We welcome contributions of every size, from bug reports and documentation to ne
 
 <!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6D28D9,100:312E81&height=80&section=footer" alt="footer" width="100%" />
 </p>
 
 <p align="center">

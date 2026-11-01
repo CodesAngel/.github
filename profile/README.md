@@ -1,6 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0057FF,100:00C2FF&height=150&section=header&text=CodesAngel&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Code%20with%20purpose.%20Build%20with%20heart.&descAlignY=58&descSize=16" alt="CodesAngel banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0057FF,100:00C2FF&height=200&section=header&text=CodesAngel&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Code%20with%20purpose.%20Build%20with%20heart.&descAlignY=50&descSize=16" alt="CodesAngel banner" width="100%" />
 </p>
 
 <p align="center">

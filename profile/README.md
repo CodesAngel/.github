@@ -1,16 +1,16 @@
 <!-- ============================ HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:0EA5E9&height=150&section=header&text=CodesAngel&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Code%20with%20purpose.%20Build%20with%20heart.&descAlignY=58&descSize=16" alt="CodesAngel banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:0057FF,100:00C2FF&height=150&section=header&text=CodesAngel&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Code%20with%20purpose.%20Build%20with%20heart.&descAlignY=58&descSize=16" alt="CodesAngel banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Building+open-source+software+that+matters;Turning+bold+ideas+into+clean+code;Learning+together.+Shipping+together." alt="Building open-source software that matters" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&height=50&lines=Building+open-source+software+that+matters;Turning+bold+ideas+into+clean+code;Learning+together.+Shipping+together." alt="Building open-source software that matters" />
 </p>
 
 <p align="center">
   <a href="https://github.com/CodesAngel"><img src="https://img.shields.io/badge/GitHub-CodesAngel-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/orgs/CodesAngel/repositories"><img src="https://img.shields.io/badge/Open%20Source-Projects-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Projects" /></a>
-  <a href="https://github.com/orgs/CodesAngel/people"><img src="https://img.shields.io/badge/Community-Join%20Us-10B981?style=for-the-badge&logo=handshake&logoColor=white" alt="Community" /></a>
+  <a href="https://github.com/orgs/CodesAngel/repositories"><img src="https://img.shields.io/badge/Open%20Source-Projects-0057FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/orgs/CodesAngel/people"><img src="https://img.shields.io/badge/Community-Join%20Us-00A3E0?style=for-the-badge&logo=handshake&logoColor=white" alt="Community" /></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ We design and ship tools, products, and experiments, and we share everything we 
       <p><b>Secure file sharing over your local network.</b></p>
       <p>Transfer files between nearby devices by link or QR code, with host approval for every client. Available for Windows, Android and Docker.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/CodesAngel/WifiX?style=flat-square&color=7C3AED" alt="Stars" />
+        <img src="https://img.shields.io/github/stars/CodesAngel/WifiX?style=flat-square&color=0057FF" alt="Stars" />
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
         <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -141,9 +141,9 @@ We welcome contributions of every size, from bug reports and documentation to ne
 
 <!-- ============================ FOOTER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6D28D9,100:312E81&height=80&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0057FF,100:05070D&height=80&section=footer" alt="footer" width="100%" />
 </p>
 
 <p align="center">
-  <i>Made with 💜 by the CodesAngel team</i>
+  <i>Made with 💙 by the CodesAngel team</i>
 </p>
